@@ -1,6 +1,6 @@
 # Movie-Recommendation-System-using-ML
 Demographic Filtering recommender system implemented using ML<hr>
-<br><br>
+<br>
 The created recommendation system will be a Demographic Filtering recommender system.
 
 ## Dataset
@@ -56,5 +56,12 @@ where
    <li><strong>m</strong> is the minimum votes required to be listed in the chart</li>
     <li><strong>R</strong> is the average rating of the movie</li>
     <li><strong>C</strong> is the mean vote across the whole report</li>
+    
+    
+After finding the Weighted Rating (calc_score), we'll sort the list and print 10 movies with the highest ratings. then, we'll find the 10 most popular movies.
+    
+    
+## Concepts used
+    - Pandas
     
     
