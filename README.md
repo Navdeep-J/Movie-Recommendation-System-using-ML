@@ -1,10 +1,11 @@
 # Movie-Recommendation-System-using-ML
 Demographic Filtering recommender system implemented using ML<hr>
-<br>
+
 The created recommendation system will be a Demographic Filtering recommender system.
 
 ## Dataset
 I've used the <a href ="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">TMDB 5000 Movie Dataset</a>. This contains 2 datasets. <br>
+
 The first dataset contains the following features:-
 
 - movie_id - A unique identifier for each movie.
