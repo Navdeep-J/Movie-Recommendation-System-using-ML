@@ -21,7 +21,7 @@ For this, we need a metric to score or rate the movie, calculate the score for e
 
 So, I'll be using IMDB's Weighted Rating :-<br>
 
-<img src="./imdb formula weighted rating.png" alt="formula pic">
+![Formula pic](https://1.bp.blogspot.com/-IwW-xX59Hi4/YF7TyvzmM7I/AAAAAAAAdkg/34Mpp3aW5LAsy561icqkdDEsq_O2ZgI9gCLcBGAsYHQ/s762/weight-avg.png)
 
 where
 <ul>
