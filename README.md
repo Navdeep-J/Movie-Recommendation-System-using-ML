@@ -56,12 +56,17 @@ where
    <li><strong>m</strong> is the minimum votes required to be listed in the chart</li>
     <li><strong>R</strong> is the average rating of the movie</li>
     <li><strong>C</strong> is the mean vote across the whole report</li>
+    </ul>
     
     
 After finding the Weighted Rating (calc_score), we'll sort the list and print 10 movies with the highest ratings. then, we'll find the 10 most popular movies.
     
     
 ## Concepts used
-    - Pandas
+    - pandas library
+    - numpy library
+    - matplotlib library
+    - Machine learning concepts
+    - Recommender systems
     
     
