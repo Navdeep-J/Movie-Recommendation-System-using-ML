@@ -4,7 +4,7 @@ Demographic Filtering recommender system implemented using ML
 The created recommendation system will be a Demographic Filtering recommender system.
 
 ## Dataset
-I've used the <a href ="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">TMDB 5000 Movie Dataset</a>. This contains 2 datasets. 
+I've used the <a href ="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">TMDB 5000 Movie Dataset</a>. This contains 2 datasets. <br>
 The first dataset contains the following features:-
 
 - movie_id - A unique identifier for each movie.
@@ -40,7 +40,7 @@ Demographic Filtering is one of the three types of recommender systems. The othe
 - Content-Based Filtering
 - Collaborative Filtering
 
-Here, we'll use demographic filtering. They offer generalized recommendations to every user, based on movie popularity and/or genre. The System recommends the same movies to users with similar demographic features. The basic idea behind this system is that movies that are more popular and critically acclaimed will have a higher probability of being liked by the average audience.<br>
+Here, I'll use demographic filtering. Such recommender systems offer generalized recommendations to every user, based on movie popularity and/or genre. The System recommends the same movies to users with similar demographic features. The basic idea behind this system is that movies that are more popular and critically acclaimed will have a higher probability of being liked by the average audience.<br>
 
 
 For this, we need a metric to score or rate the movie, calculate the score for every movie, and then, sort the score and recommend the best-rated movies.
@@ -56,3 +56,5 @@ where
    <li><strong>m</strong> is the minimum votes required to be listed in the chart</li>
     <li><strong>R</strong> is the average rating of the movie</li>
     <li><strong>C</strong> is the mean vote across the whole report</li>
+    
+    
