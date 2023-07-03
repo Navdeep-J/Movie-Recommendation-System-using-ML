@@ -7,14 +7,14 @@ The created recommendation system will be a Demographic Filtering recommender sy
 I've used the <a href ="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">TMDB 5000 Movie Dataset</a>. This contains 2 datasets.  <br>
 
 The first dataset contains the following features:-
-
+```
 - movie_id - A unique identifier for each movie.
 - cast - The name of lead and supporting actors.
 - crew - The name of Director, Editor, Composer, Writer etc.
-
+```
 
 The second dataset has the following features:-
-
+```
 - budget - The budget in which the movie was made.
 - genre - The genre of the movie, Action, Comedy ,Thriller etc.
 - homepage - A link to the homepage of the movie.
@@ -34,7 +34,7 @@ The second dataset has the following features:-
 - title - Title of the movie.
 - vote_average - average ratings the movie recieved.
 - vote_count - the count of votes recieved.
-
+```
 
 ## Demographic Filtering
 Demographic Filtering is one of the three types of recommender systems. The other two are:
